@@ -1,1 +1,2 @@
-# projeto_vendas
+Site de Vendas de Produtos para os Alunos do WebAcademy:
+Este repositório possui código fonte....
